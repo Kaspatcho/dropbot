@@ -1,0 +1,4 @@
+__pycache__
+*.sql
+bla.txt
+credentials.py
